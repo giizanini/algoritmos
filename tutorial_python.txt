@@ -8,3 +8,5 @@ O interpretador Python e a extensiva biblioteca padrão estão disponíveis grat
 PASSO A PASSO PARA FAZER DOWNLOAD
 O processo de download é simples. Quando o usuário começa a baixar um arquivo, um servidor remoto que contém a informação faz o envio dos dados para o equipamento, que são recebidos pelo cliente ou navegador e armazenados no dispositivo.
 
+PASSO A PASSO DE INSTALAÇÃO
+Trata-se de um processo por meio do qual todos os arquivos necessários são colocados em um computador para que o programa (por exemplo, sistema operacional, driver de dispositivo, software aplicativo, módulo de extensão, patch, etc.), possa ser executado.
