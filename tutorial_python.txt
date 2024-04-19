@@ -13,3 +13,8 @@ Trata-se de um processo por meio do qual todos os arquivos necessários são col
 
 Porque Python é bom para iniciantes?
 Ele é considerado atrativo para quem quer começar a programar. Um dos motivos é a sua simplicidade. Códigos escritos em Python são de 3 a 5 vezes menores do que os na linguagem Java, por exemplo. Ele exige menos código para concluir tarefas.
+
+O que é uma virtualenv?
+Como dito acima, um problema muito comum é quando precisamos utilizar diversas versões de uma mesma biblioteca em diferentes projetos Python. Isso pode acarretar em conflitos entre as versões e muita dor de cabeça para o desenvolvedor. Para resolver este problema, o mais correto é a criação de um ambiente virtual para cada projeto.
+
+Após criar uma virtualenv, precisamos ativá-la para que possamos instalar os pacotes necessários do projeto. Para isso, utilizamos o seguinte comando: source nome_da_virtualenv/bin/activate (Linux ou macOS) nome_da_virtualenv/Scripts/Activate (Windows)
