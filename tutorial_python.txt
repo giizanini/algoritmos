@@ -10,3 +10,6 @@ O processo de download é simples. Quando o usuário começa a baixar um arquivo
 
 PASSO A PASSO DE INSTALAÇÃO
 Trata-se de um processo por meio do qual todos os arquivos necessários são colocados em um computador para que o programa (por exemplo, sistema operacional, driver de dispositivo, software aplicativo, módulo de extensão, patch, etc.), possa ser executado.
+
+Porque Python é bom para iniciantes?
+Ele é considerado atrativo para quem quer começar a programar. Um dos motivos é a sua simplicidade. Códigos escritos em Python são de 3 a 5 vezes menores do que os na linguagem Java, por exemplo. Ele exige menos código para concluir tarefas.
